@@ -6,7 +6,7 @@ authors = ["NastyaGavrichenkova <lady_markos@mail.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 pytest = "^7.4.2"
 requests = "^2.31.0"
 allure-pytest = "^2.13.2"
